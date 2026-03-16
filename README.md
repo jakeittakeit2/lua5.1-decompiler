@@ -1,1 +1,1 @@
-usage:decompiler.exe input.luac
+usage: decompiler.exe input.luac
